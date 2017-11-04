@@ -1,0 +1,402 @@
+Class 1
+
+-------------------------------------------------------------
+######veterans benefits######
+
+[1 :: 1753]	[0 :: 47409]	[2 :: 137979]	[? :: 0]	
+
+-------------------------------------------------------------
+######citizenship######
+
+[Native- Born in the United States :: 165843]	[Native- Born abroad of American Parent(s) :: 1628]	[Foreign born- Not a citizen of U S :: 12909]	[Native- Born in Puerto Rico or U S Outlying :: 1486]	[Foreign born- U S citizen by naturalization :: 5275]	[? :: 0]	
+
+-------------------------------------------------------------
+######country of birth father######
+
+[Canada :: 1250]	[Dominican-Republic :: 1276]	[Italy :: 2068]	[Ireland :: 443]	[Panama :: 25]	[Hungary :: 272]	[Scotland :: 227]	[Cambodia :: 191]	[France :: 178]	[Peru :: 326]	[Laos :: 152]	[Ecuador :: 368]	[Iran :: 203]	[Cuba :: 1066]	[Guatemala :: 443]	[China :: 778]	[Germany :: 1246]	[Haiti :: 342]	[Hong Kong :: 101]	[Poland :: 1110]	[? :: 6164]	[Holand-Netherlands :: 44]	[Philippines :: 1070]	[Vietnam :: 446]	[South Korea :: 498]	[Thailand :: 99]	[Columbia :: 600]	[Honduras :: 193]	[Jamaica :: 441]	[England :: 714]	[Portugal :: 368]	[Mexico :: 9884]	[El-Salvador :: 975]	[India :: 501]	[Puerto-Rico :: 2614]	[Outlying-U S (Guam USVI etc) :: 151]	[Yugoslavia :: 202]	[United-States :: 148861]	[Trinadad&Tobago :: 111]	[Greece :: 305]	[Japan :: 349]	[Taiwan :: 179]	[Nicaragua :: 307]	
+
+-------------------------------------------------------------
+######detailed industry recode######
+
+[28 :: 135]	[29 :: 3733]	[23 :: 433]	[24 :: 1323]	[25 :: 790]	[26 :: 79]	[27 :: 566]	[20 :: 17]	[21 :: 532]	[22 :: 913]	[49 :: 459]	[46 :: 161]	[47 :: 1330]	[44 :: 2465]	[45 :: 3438]	[42 :: 4083]	[43 :: 7392]	[40 :: 1538]	[41 :: 3479]	[1 :: 780]	[0 :: 99778]	[3 :: 417]	[2 :: 2065]	[5 :: 517]	[4 :: 5451]	[7 :: 377]	[6 :: 525]	[9 :: 868]	[8 :: 462]	[? :: 0]	[13 :: 687]	[12 :: 1069]	[14 :: 226]	[11 :: 1440]	[10 :: 4]	[39 :: 2832]	[38 :: 1530]	[15 :: 337]	[48 :: 587]	[17 :: 145]	[16 :: 418]	[19 :: 1253]	[32 :: 3044]	[31 :: 922]	[30 :: 911]	[51 :: 28]	[36 :: 940]	[35 :: 2787]	[34 :: 2239]	[33 :: 16281]	[37 :: 3502]	[18 :: 446]	[50 :: 1407]	
+
+-------------------------------------------------------------
+######hispanic origin######
+
+[Cuban :: 1065]	[Mexican-American :: 7907]	[Other Spanish :: 2404]	[Chicano :: 298]	[Mexican (Mexicano) :: 7152]	[Do not know :: 298]	[Central or South American :: 3815]	[Puerto Rican :: 3245]	[NA :: 817]	[All other :: 160140]	[? :: 0]	
+
+-------------------------------------------------------------
+######sex######
+
+[Male :: 85820]	[? :: 0]	[Female :: 101321]	
+
+-------------------------------------------------------------
+######marital stat######
+
+[Separated :: 3302]	[Widowed :: 10133]	[Divorced :: 11644]	[Married-civilian spouse present :: 74622]	[Married-spouse absent :: 1422]	[Married-A F spouse present :: 650]	[? :: 0]	[Never married :: 85368]	
+
+-------------------------------------------------------------
+######full or part time employment stat######
+
+[PT for econ reasons usually FT :: 494]	[Children or Armed Forces :: 117895]	[Not in labor force :: 26346]	[Full-time schedules :: 35370]	[PT for econ reasons usually PT :: 1054]	[PT for non-econ reasons usually FT :: 2929]	[? :: 0]	[Unemployed part- time :: 825]	[Unemployed full-time :: 2228]	
+
+-------------------------------------------------------------
+######year######
+
+[95 :: 93153]	[94 :: 93988]	[? :: 0]	
+
+-------------------------------------------------------------
+######region of previous residence######
+
+[Northeast :: 2558]	[West :: 3914]	[Not in universe :: 171986]	[? :: 0]	[Midwest :: 3466]	[Abroad :: 512]	[South :: 4705]	
+
+-------------------------------------------------------------
+######education######
+
+[1st 2nd 3rd or 4th grade :: 1786]	[Associates degree-academic program :: 3951]	[Masters degree(MA MS MEng MEd MSW MBA) :: 4503]	[Some college but no degree :: 26033]	[7th and 8th grade :: 7935]	[Less than 1st grade :: 818]	[9th grade :: 6192]	[11th grade :: 6806]	[Bachelors degree(BA AB BS) :: 15950]	[Doctorate degree(PhD EdD) :: 606]	[Prof school degree (MD DDS DVM LLB JD) :: 824]	[5th or 6th grade :: 3255]	[Associates degree-occup /vocational :: 4945]	[High school graduate :: 46528]	[10th grade :: 7495]	[Children :: 47422]	[12th grade no diploma :: 2092]	[? :: 0]	
+
+-------------------------------------------------------------
+######tax filer stat######
+
+[Nonfiler :: 75059]	[Joint both 65+ :: 7882]	[Joint both under 65 :: 58530]	[Single :: 35126]	[Joint one under 65 & one 65+ :: 3566]	[? :: 0]	[Head of household :: 6978]	
+
+-------------------------------------------------------------
+######weeks worked in year######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######detailed household summary in household######
+
+[Child under 18 never married :: 50424]	[Child under 18 ever married :: 47]	[Spouse of householder :: 39427]	[Nonrelative of householder :: 7367]	[Child 18 or older :: 14304]	[? :: 0]	[Group Quarters- Secondary individual :: 131]	[Householder :: 65824]	[Other relative of householder :: 9617]	
+
+-------------------------------------------------------------
+######major industry code######
+
+[Public administration :: 3783]	[Entertainment :: 1538]	[Hospital services :: 3479]	[Manufacturing-durable goods :: 7521]	[Business and repair services :: 5032]	[Social services :: 2465]	[Utilities and sanitary services :: 922]	[Mining :: 417]	[Transportation :: 3733]	[Medical except hospital :: 4083]	[Retail trade :: 16281]	[Construction :: 5451]	[Personal services except private HH :: 2832]	[? :: 0]	[Manufacturing-nondurable goods :: 6041]	[Private household services :: 940]	[Communications :: 911]	[Armed Forces :: 28]	[Wholesale trade :: 3044]	[Finance insurance and real estate :: 5026]	[Not in universe or children :: 99778]	[Forestry and fisheries :: 161]	[Other professional services :: 3438]	[Education :: 7392]	[Agriculture :: 2845]	
+
+-------------------------------------------------------------
+######own business or self employed######
+
+[1 :: 2089]	[0 :: 170220]	[2 :: 14832]	[? :: 0]	
+
+-------------------------------------------------------------
+######state of previous residence######
+
+[Mississippi :: 199]	[Oklahoma :: 606]	[Wyoming :: 231]	[Minnesota :: 556]	[Illinois :: 174]	[Arkansas :: 199]	[Not in universe :: 171986]	[Indiana :: 517]	[Maryland :: 133]	[Louisiana :: 189]	[Texas :: 201]	[Arizona :: 239]	[Iowa :: 185]	[Michigan :: 422]	[Kansas :: 145]	[Utah :: 1032]	[Virginia :: 123]	[Oregon :: 228]	[Connecticut :: 105]	[Montana :: 219]	[California :: 1647]	[Massachusetts :: 140]	[West Virginia :: 219]	[South Carolina :: 91]	[New Hampshire :: 233]	[Abroad :: 648]	[? :: 663]	[Wisconsin :: 100]	[Vermont :: 186]	[Georgia :: 222]	[North Dakota :: 481]	[Pennsylvania :: 193]	[Florida :: 819]	[Alaska :: 267]	[Kentucky :: 234]	[Nebraska :: 175]	[Missouri :: 170]	[Ohio :: 206]	[Alabama :: 210]	[New York :: 188]	[South Dakota :: 133]	[Colorado :: 228]	[Idaho :: 29]	[New Jersey :: 68]	[North Carolina :: 769]	[Tennessee :: 198]	[District of Columbia :: 105]	[Nevada :: 170]	[Delaware :: 70]	[Maine :: 157]	[New Mexico :: 433]	
+
+-------------------------------------------------------------
+######num persons worked for employer######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######capital losses######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######detailed household and family stat######
+
+[Other Rel 18+ spouse of subfamily RP :: 614]	[Child 18+ ever marr Not in a subfamily :: 990]	[Child <18 spouse of subfamily RP :: 2]	[In group quarters :: 194]	[Grandchild <18 never marr not in subfamily :: 1066]	[Grandchild <18 ever marr not in subfamily :: 2]	[Other Rel 18+ never marr not in subfamily :: 1706]	[Grandchild <18 never marr child of subfamily RP :: 1868]	[Grandchild 18+ never marr not in subfamily :: 373]	[Other Rel <18 spouse of subfamily RP :: 3]	[Nonfamily householder :: 20413]	[Child 18+ spouse of subfamily RP :: 124]	[Spouse of householder :: 39413]	[Grandchild 18+ never marr RP of subfamily :: 6]	[Grandchild 18+ ever marr RP of subfamily :: 9]	[Child <18 never marr not in subfamily :: 50324]	[Secondary individual :: 5902]	[? :: 0]	[Other Rel <18 ever marr not in subfamily :: 1]	[Other Rel 18+ ever marr not in subfamily :: 1938]	[Grandchild <18 never marr RP of subfamily :: 2]	[Child <18 never marr RP of subfamily :: 80]	[Other Rel <18 never marr child of subfamily RP :: 656]	[Other Rel <18 never marr not in subfamily :: 584]	[RP of unrelated subfamily :: 676]	[Child <18 ever marr RP of subfamily :: 9]	[Householder :: 45398]	[Other Rel 18+ ever marr RP of subfamily :: 637]	[Child 18+ never marr Not in a subfamily :: 11943]	[Child under 18 of RP of unrel subfamily :: 732]	[Spouse of RP of unrelated subfamily :: 47]	[Grandchild 18+ spouse of subfamily RP :: 10]	[Child 18+ ever marr RP of subfamily :: 659]	[Other Rel 18+ never marr RP of subfamily :: 94]	[Other Rel <18 ever marr RP of subfamily :: 6]	[Child 18+ never marr RP of subfamily :: 587]	[Grandchild 18+ ever marr not in subfamily :: 33]	[Other Rel <18 never married RP of subfamily :: 4]	[Child <18 ever marr not in subfamily :: 36]	
+
+-------------------------------------------------------------
+######migration code-move within reg######
+
+[Different state in South :: 912]	[Same county :: 9484]	[Different state in Northeast :: 404]	[Different state in Midwest :: 526]	[Not in universe :: 1516]	[Nonmover :: 77317]	[Different county same state :: 2670]	[Different state in West :: 647]	[Abroad :: 512]	[? :: 93153]	
+
+-------------------------------------------------------------
+######wage per hour######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######family members under 18######
+
+[Mother only present :: 12772]	[Not in universe :: 131852]	[Father only present :: 1883]	[Both parents present :: 38981]	[Neither parent present :: 1653]	[? :: 0]	
+
+-------------------------------------------------------------
+######country of birth mother######
+
+[Canada :: 1315]	[Dominican-Republic :: 1092]	[Italy :: 1741]	[Ireland :: 526]	[Panama :: 32]	[Hungary :: 264]	[Scotland :: 214]	[Cambodia :: 151]	[France :: 187]	[Peru :: 346]	[Laos :: 153]	[Ecuador :: 363]	[Iran :: 171]	[Cuba :: 1046]	[Guatemala :: 441]	[China :: 690]	[Germany :: 1261]	[Haiti :: 345]	[Hong Kong :: 100]	[Poland :: 1014]	[? :: 5650]	[Holand-Netherlands :: 42]	[Philippines :: 1152]	[Vietnam :: 462]	[Thailand :: 116]	[Columbia :: 600]	[Honduras :: 216]	[Jamaica :: 432]	[England :: 804]	[Portugal :: 326]	[Mexico :: 9645]	[El-Salvador :: 1088]	[India :: 500]	[Puerto-Rico :: 2420]	[Taiwan :: 202]	[Outlying-U S (Guam USVI etc) :: 155]	[Yugoslavia :: 167]	[United-States :: 150091]	[Trinadad&Tobago :: 97]	[Greece :: 239]	[Japan :: 416]	[South Korea :: 574]	[Nicaragua :: 295]	
+
+-------------------------------------------------------------
+######capital gains######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######enroll in edu inst last wk######
+
+[High school :: 6887]	[? :: 0]	[Not in universe :: 174591]	[College or university :: 5663]	
+
+-------------------------------------------------------------
+######fill inc questionnaire for veteran's admin######
+
+[Yes :: 375]	[? :: 0]	[Not in universe :: 185388]	[No :: 1378]	
+
+-------------------------------------------------------------
+######reason for unemployment######
+
+[Job loser - on layoff :: 954]	[Job leaver :: 574]	[Not in universe :: 181241]	[New entrant :: 437]	[Other job loser :: 1939]	[Re-entrant :: 1996]	[? :: 0]	
+
+-------------------------------------------------------------
+######class of worker######
+
+[Self-employed-incorporated :: 2131]	[State government :: 3742]	[Private :: 64706]	[Federal government :: 2328]	[Without pay :: 164]	[Self-employed-not incorporated :: 7355]	[Not in universe :: 99341]	[Never worked :: 437]	[Local government :: 6937]	[? :: 0]	
+
+-------------------------------------------------------------
+######migration prev res in sunbelt######
+
+[Yes :: 5592]	[? :: 93153]	[Not in universe :: 78833]	[No :: 9563]	
+
+-------------------------------------------------------------
+######dividends from stocks######
+
+[continuous :: 0]	[? :: 0]	
+
+-------------------------------------------------------------
+######major occupation code######
+
+[Protective services :: 1402]	[Other service :: 11979]	[Armed Forces :: 28]	[Private household services :: 778]	[Professional specialty :: 10465]	[Farming forestry and fishing :: 2986]	[Not in universe :: 99778]	[Sales :: 10259]	[Machine operators assmblrs & inspctrs :: 6144]	[Transportation and material moving :: 3761]	[Handlers equip cleaners etc :: 4048]	[Technicians and related support :: 2657]	[Executive admin and managerial :: 8902]	[Adm support including clerical :: 14391]	[? :: 0]	[Precision production craft & repair :: 9563]	
+
+-------------------------------------------------------------
+######detailed occupation recode######
+
+[28 :: 1402]	[43 :: 1266]	[24 :: 1804]	[25 :: 720]	[26 :: 7697]	[27 :: 778]	[20 :: 67]	[21 :: 452]	[22 :: 384]	[23 :: 3334]	[46 :: 28]	[44 :: 1568]	[45 :: 152]	[42 :: 1885]	[29 :: 5077]	[40 :: 598]	[41 :: 1565]	[1 :: 411]	[0 :: 99778]	[3 :: 2556]	[2 :: 5935]	[5 :: 538]	[4 :: 685]	[7 :: 231]	[6 :: 287]	[9 :: 539]	[8 :: 1780]	[? :: 0]	[13 :: 1204]	[38 :: 2838]	[11 :: 217]	[10 :: 3305]	[39 :: 923]	[12 :: 2883]	[15 :: 642]	[14 :: 811]	[17 :: 1290]	[16 :: 2841]	[19 :: 5275]	[32 :: 2361]	[31 :: 2671]	[30 :: 1870]	[37 :: 2148]	[36 :: 3996]	[35 :: 2865]	[34 :: 3727]	[33 :: 2971]	[18 :: 786]	
+
+-------------------------------------------------------------
+######migration code-change in reg######
+
+[Different division same region :: 440]	[Same county :: 9484]	[Different region :: 1103]	[Not in universe :: 1516]	[Nonmover :: 77317]	[Different county same state :: 2670]	[? :: 93153]	[Abroad :: 512]	[Different state same division :: 946]	
+
+-------------------------------------------------------------
+######member of a labor union######
+
+[Yes :: 2618]	[? :: 0]	[Not in universe :: 170311]	[No :: 14212]	
+
+-------------------------------------------------------------
+######live in this house 1 year ago######
+
+[Not in universe under 1 year old :: 94669]	[Yes :: 77317]	[? :: 0]	[No :: 15155]	
+
+-------------------------------------------------------------
+######race######
+
+[Amer Indian Aleut or Eskimo :: 2202]	[Other :: 3566]	[Black :: 19875]	[Asian or Pacific Islander :: 5405]	[White :: 156093]	[? :: 0]	
+
+-------------------------------------------------------------
+######migration code-change in msa######
+
+[Abroad to nonMSA :: 73]	[MSA to MSA :: 10119]	[Not in universe :: 1516]	[Nonmover :: 77317]	[MSA to nonMSA :: 766]	[NonMSA to MSA :: 588]	[NonMSA to nonMSA :: 2761]	[Not identifiable :: 413]	[Abroad to MSA :: 435]	[? :: 93153]	
+
+-------------------------------------------------------------
+######country of birth self######
+
+[Canada :: 631]	[Dominican-Republic :: 679]	[Italy :: 387]	[Ireland :: 121]	[Panama :: 28]	[Hungary :: 71]	[Scotland :: 62]	[Cambodia :: 94]	[France :: 106]	[Peru :: 259]	[Laos :: 104]	[Ecuador :: 249]	[Columbia :: 425]	[Cuba :: 777]	[Guatemala :: 341]	[China :: 443]	[Germany :: 779]	[Haiti :: 220]	[Hong Kong :: 90]	[Poland :: 358]	[? :: 3096]	[Holand-Netherlands :: 18]	[Philippines :: 767]	[Vietnam :: 380]	[Thailand :: 104]	[Iran :: 129]	[Honduras :: 142]	[Jamaica :: 302]	[England :: 399]	[Portugal :: 165]	[Mexico :: 5692]	[El-Salvador :: 676]	[India :: 337]	[Puerto-Rico :: 1370]	[Taiwan :: 170]	[Outlying-U S (Guam USVI etc) :: 116]	[Yugoslavia :: 60]	[United-States :: 165840]	[Trinadad&Tobago :: 65]	[Greece :: 132]	[Japan :: 299]	[South Korea :: 442]	[Nicaragua :: 216]	
+
+-------------------------------------------------------------
+######age######
+
+[continuous :: 0]	[? :: 0]	
+Class 2
+
+---------------------------------------------------------------
+######veterans benefits######
+
+[1 :: 231]	[0 :: 0]	[2 :: 12151]	[? :: 0]	
+
+---------------------------------------------------------------
+######citizenship######
+
+[Native- Born in the United States :: 11149]	[Native- Born abroad of American Parent(s) :: 128]	[Foreign born- Not a citizen of U S :: 492]	[Native- Born in Puerto Rico or U S Outlying :: 33]	[Foreign born- U S citizen by naturalization :: 580]	[? :: 0]	
+
+---------------------------------------------------------------
+######country of birth father######
+
+[Canada :: 130]	[Dominican-Republic :: 14]	[Italy :: 144]	[Ireland :: 65]	[Panama :: 0]	[Hungary :: 34]	[Scotland :: 20]	[Cambodia :: 5]	[France :: 13]	[Peru :: 9]	[Laos :: 2]	[Ecuador :: 11]	[Iran :: 30]	[Cuba :: 59]	[Guatemala :: 2]	[China :: 78]	[Germany :: 110]	[Haiti :: 9]	[Hong Kong :: 5]	[Poland :: 102]	[? :: 549]	[Holand-Netherlands :: 7]	[Philippines :: 84]	[Vietnam :: 11]	[South Korea :: 32]	[Thailand :: 8]	[Columbia :: 14]	[Honduras :: 1]	[Jamaica :: 22]	[England :: 79]	[Portugal :: 20]	[Mexico :: 124]	[El-Salvador :: 7]	[India :: 79]	[Puerto-Rico :: 66]	[Outlying-U S (Guam USVI etc) :: 8]	[Yugoslavia :: 15]	[United-States :: 10302]	[Trinadad&Tobago :: 2]	[Greece :: 39]	[Japan :: 43]	[Taiwan :: 20]	[Nicaragua :: 8]	
+
+---------------------------------------------------------------
+######detailed industry recode######
+
+[28 :: 8]	[29 :: 476]	[23 :: 92]	[24 :: 180]	[25 :: 294]	[26 :: 48]	[27 :: 60]	[20 :: 15]	[21 :: 27]	[22 :: 39]	[49 :: 151]	[46 :: 26]	[47 :: 314]	[44 :: 84]	[45 :: 1044]	[42 :: 600]	[43 :: 891]	[40 :: 113]	[41 :: 485]	[1 :: 47]	[0 :: 906]	[3 :: 146]	[2 :: 131]	[5 :: 36]	[4 :: 533]	[7 :: 45]	[6 :: 29]	[9 :: 125]	[8 :: 88]	[? :: 0]	[13 :: 212]	[12 :: 281]	[14 :: 69]	[11 :: 324]	[10 :: 0]	[39 :: 105]	[38 :: 99]	[15 :: 115]	[48 :: 65]	[17 :: 12]	[16 :: 121]	[19 :: 93]	[32 :: 552]	[31 :: 256]	[30 :: 270]	[51 :: 8]	[36 :: 5]	[35 :: 593]	[34 :: 526]	[33 :: 789]	[37 :: 520]	[18 :: 37]	[50 :: 297]	
+
+---------------------------------------------------------------
+######hispanic origin######
+
+[Cuban :: 61]	[Mexican-American :: 172]	[Other Spanish :: 81]	[Chicano :: 6]	[Mexican (Mexicano) :: 82]	[Do not know :: 8]	[Central or South American :: 80]	[Puerto Rican :: 68]	[NA :: 57]	[All other :: 11767]	[? :: 0]	
+
+---------------------------------------------------------------
+######sex######
+
+[Male :: 9719]	[? :: 0]	[Female :: 2663]	
+
+---------------------------------------------------------------
+######marital stat######
+
+[Separated :: 158]	[Widowed :: 330]	[Divorced :: 1066]	[Married-civilian spouse present :: 9600]	[Married-spouse absent :: 96]	[Married-A F spouse present :: 15]	[? :: 0]	[Never married :: 1117]	
+
+---------------------------------------------------------------
+######full or part time employment stat######
+
+[PT for econ reasons usually FT :: 31]	[Children or Armed Forces :: 5874]	[Not in labor force :: 462]	[Full-time schedules :: 5366]	[PT for econ reasons usually PT :: 155]	[PT for non-econ reasons usually FT :: 393]	[? :: 0]	[Unemployed part- time :: 18]	[Unemployed full-time :: 83]	
+
+---------------------------------------------------------------
+######year######
+
+[95 :: 6543]	[94 :: 5839]	[? :: 0]	
+
+---------------------------------------------------------------
+######region of previous residence######
+
+[Northeast :: 147]	[West :: 160]	[Not in universe :: 11764]	[? :: 0]	[Midwest :: 109]	[Abroad :: 18]	[South :: 184]	
+
+---------------------------------------------------------------
+######education######
+
+[1st 2nd 3rd or 4th grade :: 13]	[Associates degree-academic program :: 412]	[Masters degree(MA MS MEng MEd MSW MBA) :: 2038]	[Some college but no degree :: 1787]	[7th and 8th grade :: 72]	[Less than 1st grade :: 1]	[9th grade :: 38]	[11th grade :: 70]	[Bachelors degree(BA AB BS) :: 3915]	[Doctorate degree(PhD EdD) :: 657]	[Prof school degree (MD DDS DVM LLB JD) :: 969]	[5th or 6th grade :: 22]	[Associates degree-occup /vocational :: 413]	[High school graduate :: 1879]	[10th grade :: 62]	[Children :: 0]	[12th grade no diploma :: 34]	[? :: 0]	
+
+---------------------------------------------------------------
+######tax filer stat######
+
+[Nonfiler :: 35]	[Joint both 65+ :: 450]	[Joint both under 65 :: 8853]	[Single :: 2295]	[Joint one under 65 & one 65+ :: 301]	[? :: 0]	[Head of household :: 448]	
+
+---------------------------------------------------------------
+######weeks worked in year######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######detailed household summary in household######
+
+[Child under 18 never married :: 2]	[Child under 18 ever married :: 0]	[Spouse of householder :: 2282]	[Nonrelative of householder :: 234]	[Child 18 or older :: 126]	[? :: 0]	[Group Quarters- Secondary individual :: 1]	[Householder :: 9651]	[Other relative of householder :: 86]	
+
+---------------------------------------------------------------
+######major industry code######
+
+[Public administration :: 827]	[Entertainment :: 113]	[Hospital services :: 485]	[Manufacturing-durable goods :: 1494]	[Business and repair services :: 619]	[Social services :: 84]	[Utilities and sanitary services :: 256]	[Mining :: 146]	[Transportation :: 476]	[Medical except hospital :: 600]	[Retail trade :: 789]	[Construction :: 533]	[Personal services except private HH :: 105]	[? :: 0]	[Manufacturing-nondurable goods :: 856]	[Private household services :: 5]	[Communications :: 270]	[Armed Forces :: 8]	[Wholesale trade :: 552]	[Finance insurance and real estate :: 1119]	[Not in universe or children :: 906]	[Forestry and fisheries :: 26]	[Other professional services :: 1044]	[Education :: 891]	[Agriculture :: 178]	
+
+---------------------------------------------------------------
+######own business or self employed######
+
+[1 :: 609]	[0 :: 10452]	[2 :: 1321]	[? :: 0]	
+
+---------------------------------------------------------------
+######state of previous residence######
+
+[Mississippi :: 5]	[Oklahoma :: 20]	[Wyoming :: 10]	[Minnesota :: 20]	[Illinois :: 6]	[Arkansas :: 6]	[Not in universe :: 11764]	[Indiana :: 16]	[Maryland :: 3]	[Louisiana :: 3]	[Texas :: 8]	[Arizona :: 4]	[Iowa :: 4]	[Michigan :: 19]	[Kansas :: 4]	[Utah :: 31]	[Virginia :: 3]	[Oregon :: 8]	[Connecticut :: 12]	[Montana :: 7]	[California :: 67]	[Massachusetts :: 11]	[West Virginia :: 12]	[South Carolina :: 4]	[New Hampshire :: 9]	[Abroad :: 23]	[? :: 45]	[Wisconsin :: 5]	[Vermont :: 5]	[Georgia :: 5]	[North Dakota :: 18]	[Pennsylvania :: 6]	[Florida :: 30]	[Alaska :: 23]	[Kentucky :: 10]	[Nebraska :: 3]	[Missouri :: 5]	[Ohio :: 5]	[Alabama :: 6]	[New York :: 7]	[South Dakota :: 5]	[Colorado :: 11]	[Idaho :: 2]	[New Jersey :: 7]	[North Carolina :: 43]	[Tennessee :: 4]	[District of Columbia :: 11]	[Nevada :: 4]	[Delaware :: 3]	[Maine :: 10]	[New Mexico :: 30]	
+
+---------------------------------------------------------------
+######num persons worked for employer######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######capital losses######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######detailed household and family stat######
+
+[Other Rel 18+ spouse of subfamily RP :: 24]	[Child 18+ ever marr Not in a subfamily :: 23]	[Child <18 spouse of subfamily RP :: 0]	[In group quarters :: 2]	[Grandchild <18 never marr not in subfamily :: 0]	[Grandchild <18 ever marr not in subfamily :: 0]	[Other Rel 18+ never marr not in subfamily :: 22]	[Grandchild <18 never marr child of subfamily RP :: 0]	[Grandchild 18+ never marr not in subfamily :: 2]	[Other Rel <18 spouse of subfamily RP :: 0]	[Nonfamily householder :: 1800]	[Child 18+ spouse of subfamily RP :: 2]	[Spouse of householder :: 2282]	[Grandchild 18+ never marr RP of subfamily :: 0]	[Grandchild 18+ ever marr RP of subfamily :: 0]	[Child <18 never marr not in subfamily :: 2]	[Secondary individual :: 220]	[? :: 0]	[Other Rel <18 ever marr not in subfamily :: 0]	[Other Rel 18+ ever marr not in subfamily :: 18]	[Grandchild <18 never marr RP of subfamily :: 0]	[Child <18 never marr RP of subfamily :: 0]	[Other Rel <18 never marr child of subfamily RP :: 0]	[Other Rel <18 never marr not in subfamily :: 0]	[RP of unrelated subfamily :: 9]	[Child <18 ever marr RP of subfamily :: 0]	[Householder :: 7850]	[Other Rel 18+ ever marr RP of subfamily :: 19]	[Child 18+ never marr Not in a subfamily :: 87]	[Child under 18 of RP of unrel subfamily :: 0]	[Spouse of RP of unrelated subfamily :: 5]	[Grandchild 18+ spouse of subfamily RP :: 0]	[Child 18+ ever marr RP of subfamily :: 12]	[Other Rel 18+ never marr RP of subfamily :: 0]	[Other Rel <18 ever marr RP of subfamily :: 0]	[Child 18+ never marr RP of subfamily :: 2]	[Grandchild 18+ ever marr not in subfamily :: 1]	[Other Rel <18 never married RP of subfamily :: 0]	[Child <18 ever marr not in subfamily :: 0]	
+
+---------------------------------------------------------------
+######migration code-move within reg######
+
+[Different state in South :: 61]	[Same county :: 328]	[Different state in Northeast :: 27]	[Different state in Midwest :: 25]	[Not in universe :: 0]	[Nonmover :: 5221]	[Different county same state :: 127]	[Different state in West :: 32]	[Abroad :: 18]	[? :: 6543]	
+
+---------------------------------------------------------------
+######wage per hour######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######family members under 18######
+
+[Mother only present :: 0]	[Not in universe :: 12380]	[Father only present :: 0]	[Both parents present :: 2]	[Neither parent present :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######country of birth mother######
+
+[Canada :: 136]	[Dominican-Republic :: 11]	[Italy :: 103]	[Ireland :: 73]	[Panama :: 0]	[Hungary :: 33]	[Scotland :: 27]	[Cambodia :: 6]	[France :: 25]	[Peru :: 9]	[Laos :: 2]	[Ecuador :: 12]	[Iran :: 27]	[Cuba :: 62]	[Guatemala :: 3]	[China :: 70]	[Germany :: 121]	[Haiti :: 8]	[Hong Kong :: 7]	[Poland :: 96]	[? :: 469]	[Holand-Netherlands :: 7]	[Philippines :: 79]	[Vietnam :: 11]	[Thailand :: 7]	[Columbia :: 12]	[Honduras :: 2]	[Jamaica :: 21]	[England :: 99]	[Portugal :: 16]	[Mexico :: 136]	[El-Salvador :: 20]	[India :: 81]	[Puerto-Rico :: 53]	[Taiwan :: 20]	[Outlying-U S (Guam USVI etc) :: 2]	[Yugoslavia :: 10]	[United-States :: 10388]	[Trinadad&Tobago :: 2]	[Greece :: 22]	[Japan :: 53]	[South Korea :: 35]	[Nicaragua :: 6]	
+
+---------------------------------------------------------------
+######capital gains######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######enroll in edu inst last wk######
+
+[High school :: 5]	[? :: 0]	[Not in universe :: 12352]	[College or university :: 25]	
+
+---------------------------------------------------------------
+######fill inc questionnaire for veteran's admin######
+
+[Yes :: 16]	[? :: 0]	[Not in universe :: 12151]	[No :: 215]	
+
+---------------------------------------------------------------
+######reason for unemployment######
+
+[Job loser - on layoff :: 22]	[Job leaver :: 24]	[Not in universe :: 12212]	[New entrant :: 2]	[Other job loser :: 99]	[Re-entrant :: 23]	[? :: 0]	
+
+---------------------------------------------------------------
+######class of worker######
+
+[Self-employed-incorporated :: 1134]	[State government :: 485]	[Private :: 7322]	[Federal government :: 597]	[Without pay :: 1]	[Self-employed-not incorporated :: 1090]	[Not in universe :: 904]	[Never worked :: 2]	[Local government :: 847]	[? :: 0]	
+
+---------------------------------------------------------------
+######migration prev res in sunbelt######
+
+[Yes :: 194]	[? :: 6543]	[Not in universe :: 5221]	[No :: 424]	
+
+---------------------------------------------------------------
+######dividends from stocks######
+
+[continuous :: 0]	[? :: 0]	
+
+---------------------------------------------------------------
+######major occupation code######
+
+[Protective services :: 259]	[Other service :: 120]	[Armed Forces :: 8]	[Private household services :: 2]	[Professional specialty :: 3475]	[Farming forestry and fishing :: 160]	[Not in universe :: 906]	[Sales :: 1524]	[Machine operators assmblrs & inspctrs :: 235]	[Transportation and material moving :: 259]	[Handlers equip cleaners etc :: 79]	[Technicians and related support :: 361]	[Executive admin and managerial :: 3593]	[Adm support including clerical :: 446]	[? :: 0]	[Precision production craft & repair :: 955]	
+
+---------------------------------------------------------------
+######detailed occupation recode######
+
+[28 :: 259]	[43 :: 116]	[24 :: 43]	[25 :: 47]	[26 :: 190]	[27 :: 2]	[20 :: 4]	[21 :: 81]	[22 :: 27]	[23 :: 58]	[46 :: 8]	[44 :: 24]	[45 :: 20]	[42 :: 33]	[29 :: 28]	[40 :: 19]	[41 :: 27]	[1 :: 133]	[0 :: 906]	[3 :: 639]	[2 :: 2821]	[5 :: 317]	[4 :: 679]	[7 :: 500]	[6 :: 154]	[9 :: 199]	[8 :: 371]	[? :: 0]	[13 :: 67]	[38 :: 165]	[11 :: 420]	[10 :: 378]	[39 :: 94]	[12 :: 457]	[15 :: 173]	[14 :: 121]	[17 :: 481]	[16 :: 604]	[19 :: 138]	[32 :: 37]	[31 :: 28]	[30 :: 27]	[37 :: 86]	[36 :: 149]	[35 :: 303]	[34 :: 298]	[33 :: 354]	[18 :: 297]	
+
+---------------------------------------------------------------
+######migration code-change in reg######
+
+[Different division same region :: 25]	[Same county :: 328]	[Different region :: 75]	[Not in universe :: 0]	[Nonmover :: 5221]	[Different county same state :: 127]	[? :: 6543]	[Abroad :: 18]	[Different state same division :: 45]	
+
+---------------------------------------------------------------
+######member of a labor union######
+
+[Yes :: 412]	[? :: 0]	[Not in universe :: 10148]	[No :: 1822]	
+
+---------------------------------------------------------------
+######live in this house 1 year ago######
+
+[Not in universe under 1 year old :: 6543]	[Yes :: 5221]	[? :: 0]	[No :: 618]	
+
+---------------------------------------------------------------
+######race######
+
+[Amer Indian Aleut or Eskimo :: 49]	[Other :: 91]	[Black :: 540]	[Asian or Pacific Islander :: 430]	[White :: 11272]	[? :: 0]	
+
+---------------------------------------------------------------
+######migration code-change in msa######
+
+[Abroad to nonMSA :: 0]	[MSA to MSA :: 482]	[Not in universe :: 0]	[Nonmover :: 5221]	[MSA to nonMSA :: 24]	[NonMSA to MSA :: 27]	[NonMSA to nonMSA :: 50]	[Not identifiable :: 17]	[Abroad to MSA :: 18]	[? :: 6543]	
+
+---------------------------------------------------------------
+######country of birth self######
+
+[Canada :: 69]	[Dominican-Republic :: 11]	[Italy :: 32]	[Ireland :: 14]	[Panama :: 0]	[Hungary :: 8]	[Scotland :: 13]	[Cambodia :: 1]	[France :: 15]	[Peru :: 9]	[Laos :: 1]	[Ecuador :: 9]	[Columbia :: 9]	[Cuba :: 60]	[Guatemala :: 3]	[China :: 35]	[Germany :: 72]	[Haiti :: 8]	[Hong Kong :: 10]	[Poland :: 23]	[? :: 297]	[Holand-Netherlands :: 5]	[Philippines :: 78]	[Vietnam :: 11]	[Thailand :: 9]	[Iran :: 28]	[Honduras :: 2]	[Jamaica :: 18]	[England :: 58]	[Portugal :: 9]	[Mexico :: 75]	[El-Salvador :: 13]	[India :: 71]	[Puerto-Rico :: 30]	[Taiwan :: 31]	[Outlying-U S (Guam USVI etc) :: 3]	[Yugoslavia :: 6]	[United-States :: 11149]	[Trinadad&Tobago :: 1]	[Greece :: 15]	[Japan :: 40]	[South Korea :: 29]	[Nicaragua :: 2]	
+
+---------------------------------------------------------------
+######age######
+
+[continuous :: 0]	[? :: 0]	

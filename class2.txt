@@ -1,0 +1,659 @@
+........summary for class2-"50000"...........
+
+
+column no  0
+
+mean =  46.2661928606
+std =  11.8304278641
+
+column no  1
+
+ Private 	7322 	0.59134
+ Self-employed-incorporated 	1134 	0.09158
+ State government 	485 	0.03917
+ Self-employed-not incorporated 	1090 	0.08803
+ Not in universe 	904 	0.07301
+ Without pay 	1 	8e-05
+ Federal government 	597 	0.04822
+ Never worked 	2 	0.00016
+ Local government 	847 	0.06841
+
+column no  2
+
+ 11 	324 	0.02617
+ 12 	281 	0.02269
+ 39 	105 	0.00848
+ 14 	69 	0.00557
+ 15 	115 	0.00929
+ 16 	121 	0.00977
+ 17 	12 	0.00097
+ 32 	552 	0.04458
+ 33 	789 	0.06372
+ 30 	270 	0.02181
+ 31 	256 	0.02068
+ 50 	297 	0.02399
+ 37 	520 	0.042
+ 34 	526 	0.04248
+ 35 	593 	0.04789
+ 13 	212 	0.01712
+ 28 	8 	0.00065
+ 23 	92 	0.00743
+ 22 	39 	0.00315
+ 18 	37 	0.00299
+ 19 	93 	0.00751
+ 25 	294 	0.02374
+ 24 	180 	0.01454
+ 27 	60 	0.00485
+ 26 	48 	0.00388
+ 21 	27 	0.00218
+ 20 	15 	0.00121
+ 49 	151 	0.0122
+ 48 	65 	0.00525
+ 47 	314 	0.02536
+ 43 	891 	0.07196
+ 45 	1044 	0.08432
+ 44 	84 	0.00678
+ 29 	476 	0.03844
+ 42 	600 	0.04846
+ 41 	485 	0.03917
+ 40 	113 	0.00913
+ 2 	131 	0.01058
+ 3 	146 	0.01179
+ 0 	906 	0.07317
+ 1 	47 	0.0038
+ 6 	29 	0.00234
+ 7 	45 	0.00363
+ 4 	533 	0.04305
+ 5 	36 	0.00291
+ 8 	88 	0.00711
+ 9 	125 	0.0101
+ 46 	26 	0.0021
+ 38 	99 	0.008
+ 51 	8 	0.00065
+ 36 	5 	0.0004
+
+column no  3
+
+ 10 	378 	0.03053
+ 11 	420 	0.03392
+ 12 	457 	0.03691
+ 13 	67 	0.00541
+ 14 	121 	0.00977
+ 15 	173 	0.01397
+ 16 	604 	0.04878
+ 17 	481 	0.03885
+ 32 	37 	0.00299
+ 33 	354 	0.02859
+ 30 	27 	0.00218
+ 31 	28 	0.00226
+ 36 	149 	0.01203
+ 37 	86 	0.00695
+ 34 	298 	0.02407
+ 35 	303 	0.02447
+ 39 	94 	0.00759
+ 18 	297 	0.02399
+ 19 	138 	0.01115
+ 25 	47 	0.0038
+ 24 	43 	0.00347
+ 46 	8 	0.00065
+ 26 	190 	0.01534
+ 21 	81 	0.00654
+ 20 	4 	0.00032
+ 23 	58 	0.00468
+ 22 	27 	0.00218
+ 29 	28 	0.00226
+ 45 	20 	0.00162
+ 44 	24 	0.00194
+ 43 	116 	0.00937
+ 28 	259 	0.02092
+ 41 	27 	0.00218
+ 42 	33 	0.00267
+ 2 	2821 	0.22783
+ 3 	639 	0.05161
+ 0 	906 	0.07317
+ 1 	133 	0.01074
+ 6 	154 	0.01244
+ 7 	500 	0.04038
+ 4 	679 	0.05484
+ 5 	317 	0.0256
+ 8 	371 	0.02996
+ 9 	199 	0.01607
+ 38 	165 	0.01333
+ 27 	2 	0.00016
+ 40 	19 	0.00153
+
+column no  4
+
+ 1st 2nd 3rd or 4th grade 	13 	0.00105
+ 10th grade 	62 	0.00501
+ Less than 1st grade 	1 	8e-05
+ Some college but no degree 	1787 	0.14432
+ Masters degree(MA MS MEng MEd MSW MBA) 	2038 	0.16459
+ Associates degree-occup /vocational 	413 	0.03335
+ 11th grade 	70 	0.00565
+ Bachelors degree(BA AB BS) 	3915 	0.31618
+ Prof school degree (MD DDS DVM LLB JD) 	969 	0.07826
+ 9th grade 	38 	0.00307
+ 5th or 6th grade 	22 	0.00178
+ Doctorate degree(PhD EdD) 	657 	0.05306
+ High school graduate 	1879 	0.15175
+ 7th and 8th grade 	72 	0.00581
+ 12th grade no diploma 	34 	0.00275
+ Associates degree-academic program 	412 	0.03327
+
+column no  5
+
+mean =  81.6402842836
+std =  431.347353999
+
+column no  6
+
+ Not in universe 	12352 	0.99758
+ College or university 	25 	0.00202
+ High school 	5 	0.0004
+
+column no  7
+
+ Separated 	158 	0.01276
+ Divorced 	1066 	0.08609
+ Widowed 	330 	0.02665
+ Married-spouse absent 	96 	0.00775
+ Married-civilian spouse present 	9600 	0.77532
+ Married-A F spouse present 	15 	0.00121
+ Never married 	1117 	0.09021
+
+column no  8
+
+ Mining 	146 	0.01179
+ Transportation 	476 	0.03844
+ Medical except hospital 	600 	0.04846
+ Retail trade 	789 	0.06372
+ Finance insurance and real estate 	1119 	0.09037
+ Construction 	533 	0.04305
+ Personal services except private HH 	105 	0.00848
+ Manufacturing-nondurable goods 	856 	0.06913
+ Private household services 	5 	0.0004
+ Communications 	270 	0.02181
+ Utilities and sanitary services 	256 	0.02068
+ Not in universe or children 	906 	0.07317
+ Forestry and fisheries 	26 	0.0021
+ Other professional services 	1044 	0.08432
+ Education 	891 	0.07196
+ Wholesale trade 	552 	0.04458
+ Agriculture 	178 	0.01438
+ Entertainment 	113 	0.00913
+ Public administration 	827 	0.06679
+ Hospital services 	485 	0.03917
+ Manufacturing-durable goods 	1494 	0.12066
+ Social services 	84 	0.00678
+ Business and repair services 	619 	0.04999
+ Armed Forces 	8 	0.00065
+
+column no  9
+
+ Other service 	120 	0.00969
+ Technicians and related support 	361 	0.02916
+ Machine operators assmblrs & inspctrs 	235 	0.01898
+ Private household services 	2 	0.00016
+ Professional specialty 	3475 	0.28065
+ Protective services 	259 	0.02092
+ Farming forestry and fishing 	160 	0.01292
+ Sales 	1524 	0.12308
+ Not in universe 	906 	0.07317
+ Transportation and material moving 	259 	0.02092
+ Handlers equip cleaners etc  	79 	0.00638
+ Precision production craft & repair 	955 	0.07713
+ Adm support including clerical 	446 	0.03602
+ Armed Forces 	8 	0.00065
+ Executive admin and managerial 	3593 	0.29018
+
+column no  10
+
+ Other 	91 	0.00735
+ White 	11272 	0.91035
+ Asian or Pacific Islander 	430 	0.03473
+ Amer Indian Aleut or Eskimo 	49 	0.00396
+ Black 	540 	0.04361
+
+column no  11
+
+ Cuban 	61 	0.00493
+ Chicano 	6 	0.00048
+ Other Spanish 	81 	0.00654
+ Mexican-American 	172 	0.01389
+ NA 	57 	0.0046
+ Do not know 	8 	0.00065
+ Mexican (Mexicano) 	82 	0.00662
+ Central or South American 	80 	0.00646
+ Puerto Rican 	68 	0.00549
+ All other 	11767 	0.95033
+
+column no  12
+
+ Male 	9719 	0.78493
+ Female 	2663 	0.21507
+
+column no  13
+
+ Not in universe 	10148 	0.81958
+ Yes 	412 	0.03327
+ No 	1822 	0.14715
+
+column no  14
+
+ Job loser - on layoff 	22 	0.00178
+ Other job loser 	99 	0.008
+ Job leaver 	24 	0.00194
+ Not in universe 	12212 	0.98627
+ New entrant 	2 	0.00016
+ Re-entrant 	23 	0.00186
+
+column no  15
+
+ PT for econ reasons usually FT 	31 	0.0025
+ Children or Armed Forces 	5874 	0.4744
+ Not in labor force 	462 	0.03731
+ Full-time schedules 	5366 	0.43337
+ PT for econ reasons usually PT 	155 	0.01252
+ PT for non-econ reasons usually FT 	393 	0.03174
+ Unemployed part- time 	18 	0.00145
+ Unemployed full-time 	83 	0.0067
+
+column no  16
+
+mean =  4830.93005976
+std =  16886.9450458
+
+column no  17
+
+mean =  193.139557422
+std =  607.517973478
+
+column no  18
+
+mean =  1553.44806978
+std =  6997.78916543
+
+column no  19
+
+ Nonfiler 	35 	0.00283
+ Joint one under 65 & one 65+ 	301 	0.02431
+ Joint both 65+ 	450 	0.03634
+ Single 	2295 	0.18535
+ Joint both under 65 	8853 	0.71499
+ Head of household 	448 	0.03618
+
+column no  20
+
+ Northeast 	147 	0.01187
+ West 	160 	0.01292
+ Not in universe 	11764 	0.95009
+ Midwest 	109 	0.0088
+ Abroad 	18 	0.00145
+ South 	184 	0.01486
+
+column no  21
+
+ South Dakota 	5 	0.0004
+ Iowa 	4 	0.00032
+ Wisconsin 	5 	0.0004
+ New Jersey 	7 	0.00057
+ Kansas 	4 	0.00032
+ Michigan 	19 	0.00153
+ Virginia 	3 	0.00024
+ Utah 	31 	0.0025
+ Oregon 	8 	0.00065
+ District of Columbia 	11 	0.00089
+ Connecticut 	12 	0.00097
+ Massachusetts 	11 	0.00089
+ South Carolina 	4 	0.00032
+ Abroad 	23 	0.00186
+ Florida 	30 	0.00242
+ Montana 	7 	0.00057
+ Alaska 	23 	0.00186
+ Vermont 	5 	0.0004
+ Kentucky 	10 	0.00081
+ Nebraska 	3 	0.00024
+ New Mexico 	30 	0.00242
+ Alabama 	6 	0.00048
+ Missouri 	5 	0.0004
+ Ohio 	5 	0.0004
+ Illinois 	6 	0.00048
+ Colorado 	11 	0.00089
+ Arizona 	4 	0.00032
+ Tennessee 	4 	0.00032
+ Not in universe 	11764 	0.95009
+ Georgia 	5 	0.0004
+ West Virginia 	12 	0.00097
+ New Hampshire 	9 	0.00073
+ Wyoming 	10 	0.00081
+ Nevada 	4 	0.00032
+ North Carolina 	43 	0.00347
+ ? 	45 	0.00363
+ Maine 	10 	0.00081
+ Louisiana 	3 	0.00024
+ North Dakota 	18 	0.00145
+ Mississippi 	5 	0.0004
+ Delaware 	3 	0.00024
+ Oklahoma 	20 	0.00162
+ New York 	7 	0.00057
+ Minnesota 	20 	0.00162
+ Idaho 	2 	0.00016
+ Arkansas 	6 	0.00048
+ Indiana 	16 	0.00129
+ Pennsylvania 	6 	0.00048
+ Maryland 	3 	0.00024
+ Texas 	8 	0.00065
+ California 	67 	0.00541
+
+column no  22
+
+ Child 18+ spouse of subfamily RP 	2 	0.00016
+ Other Rel 18+ ever marr not in subfamily 	18 	0.00145
+ Other Rel 18+ spouse of subfamily RP 	24 	0.00194
+ In group quarters 	2 	0.00016
+ Spouse of householder 	2282 	0.1843
+ Child 18+ ever marr Not in a subfamily 	23 	0.00186
+ Child 18+ never marr Not in a subfamily 	87 	0.00703
+ Other Rel 18+ ever marr RP of subfamily 	19 	0.00153
+ Grandchild 18+ ever marr not in subfamily 	1 	8e-05
+ Child 18+ ever marr RP of subfamily 	12 	0.00097
+ Child 18+ never marr RP of subfamily 	2 	0.00016
+ RP of unrelated subfamily 	9 	0.00073
+ Other Rel 18+ never marr not in subfamily 	22 	0.00178
+ Secondary individual 	220 	0.01777
+ Householder 	7850 	0.63398
+ Grandchild 18+ never marr not in subfamily 	2 	0.00016
+ Spouse of RP of unrelated subfamily 	5 	0.0004
+ Nonfamily householder 	1800 	0.14537
+ Child <18 never marr not in subfamily 	2 	0.00016
+
+column no  23
+
+ Child under 18 never married 	2 	0.00016
+ Spouse of householder 	2282 	0.1843
+ Child 18 or older 	126 	0.01018
+ Nonrelative of householder 	234 	0.0189
+ Group Quarters- Secondary individual 	1 	8e-05
+ Householder 	9651 	0.77944
+ Other relative of householder 	86 	0.00695
+
+column no  25
+
+ MSA to MSA 	482 	0.03893
+ Abroad to MSA 	18 	0.00145
+ MSA to nonMSA 	24 	0.00194
+ Nonmover 	5221 	0.42166
+ NonMSA to MSA 	27 	0.00218
+ NonMSA to nonMSA 	50 	0.00404
+ Not identifiable 	17 	0.00137
+ ? 	6543 	0.52843
+
+column no  26
+
+ Same county 	328 	0.02649
+ Different division same region 	25 	0.00202
+ Different region 	75 	0.00606
+ Different state same division 	45 	0.00363
+ Nonmover 	5221 	0.42166
+ Different county same state 	127 	0.01026
+ Abroad 	18 	0.00145
+ ? 	6543 	0.52843
+
+column no  27
+
+ Different state in South 	61 	0.00493
+ Same county 	328 	0.02649
+ Different state in Northeast 	27 	0.00218
+ Different state in Midwest 	25 	0.00202
+ Nonmover 	5221 	0.42166
+ Different county same state 	127 	0.01026
+ Different state in West 	32 	0.00258
+ Abroad 	18 	0.00145
+ ? 	6543 	0.52843
+
+column no  28
+
+ Not in universe under 1 year old 	6543 	0.52843
+ Yes 	5221 	0.42166
+ No 	618 	0.04991
+
+column no  29
+
+ Not in universe 	5221 	0.42166
+ ? 	6543 	0.52843
+ No 	424 	0.03424
+ Yes 	194 	0.01567
+
+column no  30
+
+mean =  4.00371507026
+std =  2.11809757876
+
+column no  31
+
+ Not in universe 	12380 	0.99984
+ Both parents present 	2 	0.00016
+
+column no  32
+
+ Iran 	30 	0.00242
+ Cuba 	59 	0.00476
+ Puerto-Rico 	66 	0.00533
+ El-Salvador 	7 	0.00057
+ Guatemala 	2 	0.00016
+ Outlying-U S (Guam USVI etc) 	8 	0.00065
+ Holand-Netherlands 	7 	0.00057
+ United-States 	10302 	0.83201
+ China 	78 	0.0063
+ Thailand 	8 	0.00065
+ Haiti 	9 	0.00073
+ Germany 	110 	0.00888
+ South Korea 	32 	0.00258
+ Columbia 	14 	0.00113
+ Greece 	39 	0.00315
+ Dominican-Republic 	14 	0.00113
+ Poland 	102 	0.00824
+ Philippines 	84 	0.00678
+ Trinadad&Tobago 	2 	0.00016
+ Hong Kong 	5 	0.0004
+ Vietnam 	11 	0.00089
+ Honduras 	1 	8e-05
+ Mexico 	124 	0.01001
+ Portugal 	20 	0.00162
+ England 	79 	0.00638
+ Jamaica 	22 	0.00178
+ India 	79 	0.00638
+ Yugoslavia 	15 	0.00121
+ Hungary 	34 	0.00275
+ Japan 	43 	0.00347
+ Taiwan 	20 	0.00162
+ ? 	549 	0.04434
+ Nicaragua 	8 	0.00065
+ Canada 	130 	0.0105
+ Italy 	144 	0.01163
+ Scotland 	20 	0.00162
+ France 	13 	0.00105
+ Cambodia 	5 	0.0004
+ Ecuador 	11 	0.00089
+ Laos 	2 	0.00016
+ Peru 	9 	0.00073
+ Ireland 	65 	0.00525
+
+column no  33
+
+ Iran 	27 	0.00218
+ Cuba 	62 	0.00501
+ Puerto-Rico 	53 	0.00428
+ El-Salvador 	20 	0.00162
+ Guatemala 	3 	0.00024
+ Outlying-U S (Guam USVI etc) 	2 	0.00016
+ Holand-Netherlands 	7 	0.00057
+ United-States 	10388 	0.83896
+ China 	70 	0.00565
+ Thailand 	7 	0.00057
+ Haiti 	8 	0.00065
+ Germany 	121 	0.00977
+ South Korea 	35 	0.00283
+ Columbia 	12 	0.00097
+ Greece 	22 	0.00178
+ Dominican-Republic 	11 	0.00089
+ Poland 	96 	0.00775
+ Philippines 	79 	0.00638
+ Trinadad&Tobago 	2 	0.00016
+ Hong Kong 	7 	0.00057
+ Vietnam 	11 	0.00089
+ Honduras 	2 	0.00016
+ Mexico 	136 	0.01098
+ Portugal 	16 	0.00129
+ England 	99 	0.008
+ Jamaica 	21 	0.0017
+ India 	81 	0.00654
+ Yugoslavia 	10 	0.00081
+ Hungary 	33 	0.00267
+ Japan 	53 	0.00428
+ Taiwan 	20 	0.00162
+ ? 	469 	0.03788
+ Nicaragua 	6 	0.00048
+ Canada 	136 	0.01098
+ Italy 	103 	0.00832
+ Scotland 	27 	0.00218
+ France 	25 	0.00202
+ Cambodia 	6 	0.00048
+ Ecuador 	12 	0.00097
+ Laos 	2 	0.00016
+ Peru 	9 	0.00073
+ Ireland 	73 	0.0059
+
+column no  34
+
+ Iran 	28 	0.00226
+ Cuba 	60 	0.00485
+ Puerto-Rico 	30 	0.00242
+ El-Salvador 	13 	0.00105
+ Guatemala 	3 	0.00024
+ Outlying-U S (Guam USVI etc) 	3 	0.00024
+ Holand-Netherlands 	5 	0.0004
+ United-States 	11149 	0.90042
+ China 	35 	0.00283
+ Thailand 	9 	0.00073
+ Haiti 	8 	0.00065
+ Germany 	72 	0.00581
+ South Korea 	29 	0.00234
+ Columbia 	9 	0.00073
+ Greece 	15 	0.00121
+ Dominican-Republic 	11 	0.00089
+ Poland 	23 	0.00186
+ Philippines 	78 	0.0063
+ Trinadad&Tobago 	1 	8e-05
+ Hong Kong 	10 	0.00081
+ Vietnam 	11 	0.00089
+ Honduras 	2 	0.00016
+ Mexico 	75 	0.00606
+ Portugal 	9 	0.00073
+ England 	58 	0.00468
+ Jamaica 	18 	0.00145
+ India 	71 	0.00573
+ Yugoslavia 	6 	0.00048
+ Hungary 	8 	0.00065
+ Japan 	40 	0.00323
+ Taiwan 	31 	0.0025
+ ? 	297 	0.02399
+ Nicaragua 	2 	0.00016
+ Canada 	69 	0.00557
+ Italy 	32 	0.00258
+ Scotland 	13 	0.00105
+ France 	15 	0.00121
+ Cambodia 	1 	8e-05
+ Ecuador 	9 	0.00073
+ Laos 	1 	8e-05
+ Peru 	9 	0.00073
+ Ireland 	14 	0.00113
+
+column no  35
+
+ Native- Born in Puerto Rico or U S Outlying 	33 	0.00267
+ Native- Born abroad of American Parent(s) 	128 	0.01034
+ Foreign born- U S citizen by naturalization 	580 	0.04684
+ Native- Born in the United States 	11149 	0.90042
+ Foreign born- Not a citizen of U S  	492 	0.03974
+
+column no  36
+
+mean =  0.262558552738
+std =  0.637962234047
+
+column no  37
+
+ Not in universe 	12151 	0.98134
+ Yes 	16 	0.00129
+ No 	215 	0.01736
+
+column no  38
+
+ 2 	12151 	0.98134
+ 1 	231 	0.01866
+
+column no  39
+
+ 10 	8 	0.00065
+ 11 	3 	0.00024
+ 38 	15 	0.00121
+ 39 	27 	0.00218
+ 14 	4 	0.00032
+ 15 	9 	0.00073
+ 16 	11 	0.00089
+ 17 	7 	0.00057
+ 32 	28 	0.00226
+ 33 	4 	0.00032
+ 30 	42 	0.00339
+ 31 	2 	0.00016
+ 36 	43 	0.00347
+ 51 	90 	0.00727
+ 52 	10407 	0.84049
+ 35 	26 	0.0021
+ 13 	9 	0.00073
+ 28 	21 	0.0017
+ 37 	8 	0.00065
+ 22 	7 	0.00057
+ 50 	247 	0.01995
+ 18 	3 	0.00024
+ 19 	2 	0.00016
+ 12 	15 	0.00121
+ 25 	5 	0.0004
+ 24 	18 	0.00145
+ 27 	2 	0.00016
+ 26 	73 	0.0059
+ 21 	6 	0.00048
+ 20 	20 	0.00162
+ 49 	54 	0.00436
+ 48 	157 	0.01268
+ 47 	12 	0.00097
+ 46 	63 	0.00509
+ 45 	38 	0.00307
+ 44 	40 	0.00323
+ 43 	16 	0.00129
+ 42 	24 	0.00194
+ 41 	7 	0.00057
+ 40 	142 	0.01147
+ 2 	5 	0.0004
+ 3 	8 	0.00065
+ 0 	596 	0.04813
+ 1 	8 	0.00065
+ 6 	2 	0.00016
+ 34 	13 	0.00105
+ 4 	7 	0.00057
+ 5 	3 	0.00024
+ 8 	11 	0.00089
+ 9 	6 	0.00048
+ 29 	4 	0.00032
+ 7 	4 	0.00032
+
+column no  40
+
+ 94 	5839 	0.47157
+ 95 	6543 	0.52843
+
+column no  41
+
+50000+. 	12382 	1.0
